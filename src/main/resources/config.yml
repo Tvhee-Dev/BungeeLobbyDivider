@@ -1,0 +1,5 @@
+plugin:
+  #The servers this plugin should work with. Those should be configured in the bungeecord config.yml!
+  lobbyservers:
+    - lobby
+    - lobby2

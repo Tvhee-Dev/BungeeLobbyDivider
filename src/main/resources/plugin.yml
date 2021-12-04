@@ -1,0 +1,14 @@
+name: BungeeLobbyDivider
+main: me.tvhee.bungeelobbydivider.BungeeLobbyDividerPlugin
+version: 1.0.0
+author: tvhee
+depend: [JPremium]
+commands:
+  bungeelobbydividerreload:
+    description: Plugin main command
+    permission: bld.command.reload
+    aliases: [bldreload, bldr]
+  lobby:
+    description: Teleport to a lobby / hub
+    permission: bld.command.reload
+    aliases: [ hub ]
