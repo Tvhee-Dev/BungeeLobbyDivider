@@ -1,7 +1,7 @@
 name: BungeeLobbyDivider
 main: me.tvhee.bungeelobbydivider.BungeeLobbyDividerPlugin
 version: 1.0.0
-author: tvhee
+author: Tvhee
 depend: [JPremium]
 commands:
   bungeelobbydividerreload:
