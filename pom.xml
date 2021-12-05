@@ -9,7 +9,6 @@
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
-    <!-- Change to your needs !-->
     <properties>
         <bungee.version>1.17-R0.1-SNAPSHOT</bungee.version>
         <java.version>1.8</java.version>
